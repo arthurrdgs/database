@@ -1,1 +1,1 @@
-# database
+Database (SQLite) - Python: This project was built to provide the clerk to enter data about new books into the database, update book information, delete books from database and search to find the availability of books in the database.
